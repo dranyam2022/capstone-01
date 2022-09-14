@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth !important;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive !important;
+}
+
+h5 {
+    font-family: 'Josefin Sans', sans-serif !important;
+}
+
+.navbar-dark {
+    background-color: rgba(0, 0, 0, .8) !important;
+}
+
+#wrapper-nav-main {
+    background-image: url("./images/black-red-bulb.jpg");
+    background-position: center;
+}
+
+#wrapper-about {
+    background-image: url("./images/black-red-bulb.jpg");
+    background-position: center;
+    background-size: contain;
+}
